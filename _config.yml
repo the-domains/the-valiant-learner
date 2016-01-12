@@ -1,0 +1,28 @@
+name: The Valiant Learner
+favicon: null
+layout_spectrum: 0.650859585031867
+typography_spectrum: 0.01405388256534934
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9782484427560121
+  lightness: 0.40110437851399183
+  saturation: 0.43654730450361967
+  rhythmicContrast: 0.9834354184567928
+purpose: []
