@@ -1,28 +1,40 @@
-name: The Valiant Learner
 favicon: null
-layout_spectrum: 0.650859585031867
-typography_spectrum: 0.01405388256534934
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: The Valiant Learner
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9782484427560121
-  lightness: 0.40110437851399183
-  saturation: 0.43654730450361967
-  rhythmicContrast: 0.9834354184567928
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4365473045036197
+  brandStrength: 0.9782484427560121
+  lightness: 0.4011043785139918
+  brandColors:
+    - '#16202F'
+    - '#E0E9F2'
+    - '#B5C4CF'
+    - '#4B545B'
+    - '#769BD0'
+  rhythmicContrast: 0.9834354184567928
+typography_spectrum: 0.6417831
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
